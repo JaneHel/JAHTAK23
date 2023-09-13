@@ -1,2 +1,2 @@
 # JAHTAK23
-Õpin noioremtarkvaraarendajaks
+Õpin nooremtarkvaraarendajaks
